@@ -1,2 +1,2 @@
 # relays
-Some of my relay calculator files
+This is a repository for my relay calculator design files.
